@@ -1,21 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-AO">
 
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta>
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="" />
+    <meta name="author" content="" />
 
-    <title>Vawel - Nômades Digitais</title>
+    <title>Vawel .:. Nômades Digitais</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
 
     <!-- Custom CSS -->
-    <link href="css/agency.css" rel="stylesheet">
+    <link href="css/agency.css" rel="stylesheet" />
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -40,7 +40,7 @@
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
@@ -66,7 +66,7 @@
                         <a class="page-scroll" href="#about">Sobre Nós</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#team">Team</a>
+                        <a class="page-scroll" href="#team">Nosso Team</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contactos</a>
@@ -107,8 +107,7 @@
                     </span>
                     <h4 class="service-heading">Desenvolvimento de Websites</h4>
                     <p class="text-muted">
-                    Oferecemos soluções web para o seu negócio, tornamos o seu trabalho mais simples, oferecendo uma experiência
-                    de usuário agradável, única e confiável.
+                    Oferecemos soluções web para o seu negócio, tornamos o seu trabalho mais simples, oferecendo uma experiência de usuário agradável, única e confiável.
                     </p>
                 </div>
                 <div class="col-md-4">
@@ -118,7 +117,7 @@
                     </span>
                     <h4 class="service-heading">Construção de Layouts e logotipos</h4>
                     <p class="text-muted">Encantamos os nossos clientes oferecendo design's originais e ideiais que se adecuam
-                    ao seu estilo de negócio. Dê uma olhada ao nosso <a class="page-scroll" href="#portfolio">Portfólio</a> para se inspirar.</p>
+                    ao seu estilo de negócio. Dê uma olhada ao nosso <a class="page-scroll" href="#portfolio" style="color:#fa9503;">Portfólio</a> para se inspirar.</p>
                 </div>
                 <!--Reservado para trabalhos pendentes-->
                 <!---->
@@ -192,50 +191,6 @@
                         <p class="text-muted">Marketing</p>
                     </div>
                 </div>
-                <!--
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/golden.png" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Golden</h4>
-                        <p class="text-muted">Website Design</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/escape.png" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Escape</h4>
-                        <p class="text-muted">Website Design</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 portfolio-item">
-                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
-                        <div class="portfolio-hover">
-                            <div class="portfolio-hover-content">
-                                <i class="fa fa-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/dreams.png" class="img-responsive" alt="">
-                    </a>
-                    <div class="portfolio-caption">
-                        <h4>Dreams</h4>
-                        <p class="text-muted">Website Design</p>
-                    </div>
-                </div>
-                <-->
             </div>
         </div>
     </section>
@@ -301,22 +256,6 @@
                                 </div>
                             </div>
                         </li>
-                        <!--
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>July 2014</h4>
-                                    <h4 class="subheading">Phase Two Expansion</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
-                                </div>
-                            </div>
-                        </li>
-                        -->
                         <li class="timeline-inverted">
                             <div class="timeline-image">
                                 <h4>Seja parte
@@ -337,7 +276,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Nossa Equipe</h2>
-                    <h3 class="section-subheading text-muted">Conheça um pouco das pessoas que trabalham para você</h3>
+                    <h3 class="section-subheading text-muted">Conheça um pouco das pessoas que trabalham para você.</h3>
                 </div>
             </div>
             <div class="row">
@@ -345,7 +284,7 @@
                     <div class="team-member">
                         <img src="img/team/1.jpg" class="img-responsive img-circle" alt="" width="225" height="225">
                         <h4>N'Dongala Meck</h4>
-                        <p class="text-muted">CEO-CO Founder, Web Developer</p>
+                        <p class="text-muted">CEO, Co-Founder, Web Developer</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="twitter.com"><i class="fa fa-twitter"></i></a>
                             </li>
@@ -360,8 +299,8 @@
                 <div class="col-md-6">
                     <div class="team-member">
                         <img src="img/team/2.jpg" class="img-responsive img-circle" alt="" width="225" height="225">
-                        <h4>António Yossica</h4>
-                        <p class="text-muted">CEO-CO Founder, Web Developer</p>
+                        <h4>António Yosica</h4>
+                        <p class="text-muted">CEO, Co-Founder, Web Developer</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
                             </li>
@@ -372,33 +311,19 @@
                         </ul>
                     </div>
                 </div>
-				<!--
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Diana Pertersen</h4>
-                        <p class="text-muted">Lead Developer</p>
-                        <ul class="list-inline social-buttons">
-                            <li><a href="#"><i class="fa fa-twitter"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a>
-                            </li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-				-->
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Vawel - Uma experiência de usuário única, simples e apreciável</p>
+                    <p class="large text-muted">Vawel - Uma experiência de usuário única, simples e apreciável.</p>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Clients Aside 
+    <!--<section class="col-lg-12 text-center" style="padding-top:50px;padding-bottom:0;">
+        <h2 class="section-heading">Nossos Clientes</h2>
+        <h3 class="section-subheading text-muted" style="margin-bottom:10px;">Conheça as entidades satisfeitas com os nossos serviços.</h3>
+    </section>
     <aside class="clients">
         <div class="container">
             <div class="row">
@@ -424,8 +349,7 @@
                 </div>
             </div>
         </div>
-    </aside>
-    -->
+    </aside>-->
     
     <!-- Contact Section -->
     <section id="contact">
@@ -490,9 +414,10 @@
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
-                        <li><a href="#">Políticas de privacidade</a>
+                        <li><a href="#" style="color:#333;">Políticas de privacidade</a>
                         </li>
-                        <li><a href="#">Termos de Uso</a>
+                        <li>|</li>
+                        <li><a href="#" style="color:#333;">Termos de Uso</a>
                         </li>
                     </ul>
                 </div>
@@ -522,7 +447,7 @@
                             <img class="img-responsive img-centered" src="img/portfolio/roundicons-free.png" alt="">
                             <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                             <p>
-                            <!-- <strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.</p> -->
+                            <!-- <strong>Want these icons in this portfolio item sample?</strong>You can download 60 of them for free, courtesy of <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">RoundIcons.com</a>, or you can purchase the 1500 icon set <a href="https://getdpd.com/cart/hoplink/18076?referrer=bvbo4kax5k8ogc">here</a>.--></p> 
                             <ul class="list-inline">
                                 <li>Data: July 2014</li>
                                 <li>Cliente: Round Icons</li>
